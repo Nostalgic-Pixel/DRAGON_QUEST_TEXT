@@ -28,7 +28,7 @@ Would you like to start the game?: (yes/no)
 > 1. Java
 
 ### Youtube Video Link:
-> [Dragon Quest - Text Adventure Demo Video]()
+> [Dragon Quest - Text Adventure Demo Video](https://www.youtube.com/watch?v=WgDdSkvVlX0)
 
 
 # Useful Websites
